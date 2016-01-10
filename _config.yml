@@ -1,0 +1,28 @@
+name: Ackland Photography
+favicon: null
+layout_spectrum: 0.14097825391218066
+typography_spectrum: 0.08331384579651058
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.41755177918821573
+  lightness: 0.7591398435179144
+  saturation: 0.6030847893562168
+  rhythmicContrast: 0.166790688643232
+purpose: []
